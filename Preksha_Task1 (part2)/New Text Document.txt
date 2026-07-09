@@ -1,0 +1,64 @@
+📌 Task 1– After Dark Party Flier
+
+ 📖 Project Overview
+
+This project is a *Party Event Flier designed using Canva* for promoting a nightlife music event. The design focuses on creating an energetic and vibrant atmosphere using neon lighting, bold typography, and colorful visual elements.
+
+The flier highlights all important event information including the event name, date, time, venue, activities, and entry fee while maintaining a modern and attractive layout.
+
+ 🎯 Objective
+
+* Promote a nightlife party event.
+* Capture audience attention instantly.
+* Present event details clearly.
+* Create an exciting and premium party vibe.
+
+ ✨ Features
+
+* Modern neon-themed design.
+* Attractive party background.
+* Clear event details.
+* Balanced typography hierarchy.
+* Vibrant purple and pink color scheme.
+* Decorative icons and creative graphics.
+
+🎨 Design Process
+
+The Flier was created in *Canva* using a concert-themed background with vibrant lighting effects. Decorative elements such as speakers, drinks, crowd silhouettes, and neon typography were combined to create an immersive party atmosphere. Proper alignment and spacing were maintained to improve readability.
+
+🛠️ Tools Used
+
+* Canva
+* Canva Elements
+* Typography
+* Icons & Graphic Assets
+
+ 🎨 Color Palette
+
+* Purple
+* Pink
+* White
+* Yellow
+* Black
+
+These colors were selected to create a lively, energetic, and premium nightlife aesthetic.
+
+
+ 🔤 Typography
+
+A combination of bold display fonts and elegant script fonts was used to create contrast and establish a strong visual hierarchy.
+
+📌 Event Information Included
+
+* Event Name
+* Date
+* Time
+* Venue
+* Entry Fee
+* Dance
+* Music
+* Games
+
+🚀 Outcome
+
+The final design effectively captures the excitement of a nightlife event while presenting all essential event details in a visually engaging format. The Flier is suitable for social media promotion, digital advertising, and event marketing.
